@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* beautiful styling */
+
+p {
+  /*background-color: red;
+  border: 5px solid gray;*/
+  color: maroon;
+}
+
+h1,
+h2 {
+  font-family: sans-serif;
+  color: grey;
+}
+h1 {
+  border-bottom: 1px solid black;
+}
